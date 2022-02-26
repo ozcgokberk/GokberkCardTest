@@ -31,7 +31,7 @@ struct ContentView: View {
                 Divider()
                 InfoView(text: "+90 533 658 06 98")
                 InfoView(text: "ozcangokberk06@gmail.com")
-                        
+                //will continiue
                     
                    
             }
